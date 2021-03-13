@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/colorPrimary"
+    android:elevation="4dp"
+    tools:ignore="ExtraText"
+    tools:actionBarNavMode="standard">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ibot"
+        android:contentDescription="TODO"
+        android:foregroundGravity="center"
+        android:src="@drawable/estrella"
+        android:translationX="300dp"
+        />
+    />
+
+
+</android.widget.Toolbar>
